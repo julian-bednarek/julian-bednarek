@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Juliuszz666! 👋
 
-<!--
-**Juliuszz666/Juliuszz666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a poor student at TUL passionate about learning solving challenging problems and expanding my horizions. I have experience in Python, C and a little bit in C++ and MySQL, and I'm always looking to expand my skill set.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C, C++
+- **Databases**: MySQL
+- **Tools**: Git
+
+## 📈 GitHub Stats
+
+!Juliuszz666's GitHub stats
+
+## 📫 How to reach me
+
+You can reach me at my email: juliuszzxxbednarek@gmail.com
