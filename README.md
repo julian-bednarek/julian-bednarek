@@ -8,10 +8,6 @@ I'm a poor student at TUL passionate about learning solving challenging problems
 - **Databases**: MySQL
 - **Tools**: Git
 
-## 📈 GitHub Stats
-
-!Juliuszz666's GitHub stats
-
 ## 📫 How to reach me
 
 You can reach me at my email: juliuszzxxbednarek@gmail.com
