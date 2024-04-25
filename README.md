@@ -5,7 +5,6 @@ I'm a poor student at TUL passionate about learning solving challenging problems
 ## 🛠 Skills
 
 - **Languages**: Python, C, C++
-- **Databases**: MySQL
 - **Tools**: Git
 
 ## 📫 How to reach me
