@@ -10,10 +10,13 @@ I'm a passionate Computer Science student at Politechnika Łódzka (TUL) who lov
 
 ## 🔧 Projects
 
-### [Pacman-CPP](https://github.com/Juliuszz666/Pacman-CPP)  
+### [Exposure time calculator](https://github.com/julian-bednarek/LBNIWKalkulator)
+An Android mobile app made in java to calculate exposure time with embedded timer for company in NDT industry
+
+### [Pacman-CPP](https://github.com/julian-bednarek/Pacman-CPP)  
 A Pacman-like game built with C++ and the Qt framework. The project demonstrates my understanding of game logic, object-oriented design, and GUI development.
 
-### [Liquor Store Defense](https://github.com/Juliuszz666/LiquorStoreDefense)  
+### [Liquor Store Defense](https://github.com/julian-bednarek/LiquorStoreDefense)  
 A unique tower-defense-like game made with the Pygame library where the player must defend a liquor store from waves of enemies. It includes dynamic difficulty scaling, melee and ranged enemy types, and various weapon systems.
 
 ## 📫 How to Reach Me
