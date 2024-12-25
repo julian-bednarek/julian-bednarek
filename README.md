@@ -5,8 +5,8 @@ I'm a passionate Computer Science student at Politechnika Łódzka (TUL) who lov
 ## 🌟 Key Skills
 
 - **Languages**: C/C++, Java, SQL, Python
-- **Frameworks**: Qt (for GUI applications)
-- **Tools**: Git
+- **Frameworks**: Qt, Android SDK
+- **Tools**: Git, Gradle
 
 ## 🔧 Projects
 
