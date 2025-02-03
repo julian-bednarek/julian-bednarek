@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Julian Bednarek (Juliuszz666)
+# 👋 Hello, I'm Julian Bednarek
 
 I'm a passionate Computer Science student at Politechnika Łódzka (TUL) who loves solving complex problems and expanding my skill set. I have solid experience in C++ and Python. I also have intermediate knowledge of Java and SQL, and I’m always eager to learn new technologies.
 
