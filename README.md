@@ -10,7 +10,7 @@ I'm a passionate Computer Science student at Politechnika Łódzka (TUL) who lov
 
 ## 🔧 Projects
 
-### [Exposure time calculator](https://github.com/julian-bednarek/LBNIWKalkulator)
+### [Exposure time calculator](https://github.com/julian-bednarek/NDT-Exposure-Time-calculator)
 An Android mobile app made in java to calculate exposure time with embedded timer for company in NDT industry
 
 ### [Pacman-CPP](https://github.com/julian-bednarek/Pacman-CPP)  
