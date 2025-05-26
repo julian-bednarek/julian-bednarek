@@ -1,14 +1,17 @@
 # 👋 Hello, I'm Julian Bednarek
 
-I'm a passionate Computer Science student at Politechnika Łódzka (TUL) who loves solving complex problems and expanding my skill set. I have solid experience in C++ and Python. I also have intermediate knowledge of Java and SQL, and I’m always eager to learn new technologies.
+I'm a Computer Science student at TUL who thrives on tricky bugs and cold beer. I've survived C++, Python, and the crushing realization that software is never really done. I debug for hours, drink for balance, and dive into new tech mostly to forget the last one.
 
 ## 🌟 Key Skills
 
 - **Languages**: C/C++, Java, Kotlin, SQL, Python
-- **Frameworks**: Qt, Android SDK
+- **Frameworks**: Qt, Android SDK, Angular, Hibernate, Spring
 - **Tools**: Git, Gradle
 
 ## 🔧 Projects
+
+### [Interactive Web Applications](https://github.com/julian-bednarek/Interactive-Web-Applications)
+Springboot + Angular full stack app which is a prototype for alternative version of TUL's grading platfrom *Webdziekanat*
 
 ### [Exposure time calculator](https://github.com/julian-bednarek/NDT-Exposure-Time-calculator)
 An Android mobile app made in java to calculate exposure time with embedded timer for company in NDT industry
