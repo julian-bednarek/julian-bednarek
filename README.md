@@ -4,9 +4,9 @@ I'm a Computer Science student at TUL who thrives on tricky bugs and cold beer. 
 
 ## 🌟 Key Skills
 
-- **Languages**: C/C++, Java, Kotlin, SQL, Python
+- **Languages**: C/C++, Java, Kotlin, SQL, Python, TypeScript
 - **Frameworks**: Qt, Android SDK, Angular, Hibernate, Spring
-- **Tools**: Git, Gradle
+- **Tools**: Git, Gradle, Docker, PgAdmin
 
 ## 🔧 Projects
 
