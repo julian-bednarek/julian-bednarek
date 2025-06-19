@@ -26,6 +26,7 @@ I debug for hours, drink for balance, and dive into new tech mostly to forget th
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="32" style="background:white; padding:4px; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.3);" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" alt="Hibernate" width="32" style="background:white; padding:4px; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.3);" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring" width="32" style="background:white; padding:4px; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.3);" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" alt="Spring" width="32" style="background:white; padding:4px; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.3);" />
 </div>
 
 ### 🛠️ Tools
